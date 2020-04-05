@@ -34,4 +34,4 @@ Dog Detection is a popular starter Computer Vision problem. This project aims to
 3. The model outputs the dog breed which resembles the provided human image.
 
 ## Acknowledgements:
-Credit to Udacity for providing the starter code.
+Credit to Udacity for providing the starter code. 
