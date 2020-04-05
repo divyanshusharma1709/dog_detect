@@ -26,6 +26,7 @@ Dog Detection is a popular starter Computer Vision problem. This project aims to
 - saved_models
 <br> -- weights.best.resnet50.hdf5 : Saved Weights for ResNet50 model
 - dog_app.ipynb: IPython Notebook containing code for Dog Detection
+- dog_app.html: IPython Notebook saved as .html
 - extract_bottleneck_features.py: Script to extract bottleneck features for transfer learning
 
 ## Summary:
