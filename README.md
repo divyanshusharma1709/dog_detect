@@ -32,6 +32,7 @@ Dog Detection is a popular starter Computer Vision problem. This project aims to
 1. The model achieves an accuracy of 80.7416% on the test set.
 2. The model is able to differentiate between the image of a dog, a human and any other image.
 3. The model outputs the dog breed which resembles the provided human image.
+4. A Medium blog post on this project was published here: https://medium.com/@sharmadivyanshu1709/dog-breed-classifier-10-minute-challenge-6a78413ea2a2?source=friends_link&sk=fe44b530d48c6187f416070034d059e5 
 
 ## Acknowledgements:
 Credit to Udacity for providing the starter code. 
