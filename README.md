@@ -29,9 +29,9 @@ Dog Detection is a popular starter Computer Vision problem. This project aims to
 - extract_bottleneck_features.py: Script to extract bottleneck features for transfer learning
 
 ## Summary:
-1. The model had an accuracy of 80.7416% on the test set.
+1. The model achieves an accuracy of 80.7416% on the test set.
 2. The model is able to differentiate between the image of a dog, a human and any other image.
 3. The model outputs the dog breed which resembles the provided human image.
 
 ## Acknowledgements:
-Credit to Udacity for providing the starter code.
+Credit to Udacity for providing the starter code. 
